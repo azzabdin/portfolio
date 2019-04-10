@@ -10,3 +10,54 @@ font-size: 1.5rem}
 body{
     background-image: url(images/backg.jpeg)
 }
+@media screen and (max-width:980px){
+    body{
+        margin: auto;
+        padding: auto;}
+    .card {
+        width: auto;
+        margin: auto;
+        height: auto;
+    }
+    img{width: auto;height: auto;
+    margin: auto}
+
+}
+@media screen and (max-width:768px){
+body { 
+    font-size: auto ;width: auto;
+    margin: auto; }
+#sec {
+        margin: 30px;
+        width: auto;
+        height: auto;
+    
+    }
+img{
+    margin: auto;
+    width: 125px;
+    height: 125px;
+}
+
+}
+@media screen and (max-width:640px){
+
+body {
+    margin: auto ;
+    width: auto}
+    
+    #sec{
+        margin-left: -250px;
+        margin-bottom: 350px;
+        width: 450px;
+        height: 150px;
+        fo
+    }
+    
+    img{
+        margin: auto;
+        width: 100px;
+        height: 100px;
+
+    }
+}
