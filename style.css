@@ -1,0 +1,12 @@
+img{
+    width: 250px;
+    height: 250px;
+    margin: 30px;
+    margin-left: 45px;
+}
+#read{text-align: center;
+font-family: fantasy;
+font-size: 1.5rem}
+body{
+    background-image: url(images/backg.jpeg)
+}
